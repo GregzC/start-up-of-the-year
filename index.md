@@ -19,7 +19,7 @@
       <div class="row">
         <div class="buffer2 col-12"></div>
         <header class="text-center col-12">
-          <h1 class="text-uppercase"><strong>the biggest startup event of the year</strong></h1>
+          <h1 class="text-uppercase"><strong>the most trustful website on the internet</strong></h1>
         </header>
         <div class="buffer col-12"></div>
         <section class="text-center col-12"> 
